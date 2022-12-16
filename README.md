@@ -1,7 +1,7 @@
-# Backend MarketCity
+# Backend Facturas
 
 
-Proyecto APi REST de Marketcity desarrollada con ORACLE y Storage Procedures, aquí encontraras la instalacion y las versiones que se necesitan para la instalacion, adicional, varios de los enpoints del aplicativo con su funcionamiento .
+Proyecto APi REST de Facturas desarrollada con ORACLE y Storage Procedures, aquí encontraras la instalacion y las versiones que se necesitan para la instalacion, adicional, varios de los enpoints del aplicativo con su funcionamiento .
 
 ## Tecnologias
 
